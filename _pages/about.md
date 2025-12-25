@@ -26,5 +26,5 @@ My research interest lies in foundation models for digital humans and AI agents.
 # Selected Award
 - **2023-06-30**: Tsinghua University Outstanding Doctoral Dissertation award
 - **2023-06-30**: Tsinghua University Outstanding Graduate honor
-- **2018-06-30**: Honors Degree Graduate (SJTU)
+- **2018-06-30**: Shanghai Jiaotong University Honors Degree Graduate
 
