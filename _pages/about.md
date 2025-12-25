@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at ByteDance, Seed. I got my Ph.D. degree from Tsinghua University (THU), advised by Prof. Zhang Zhihai in 2023. I got a B.E. degree at Shanghai Jiaotong University (SJTU) in 2018.
+I am a researcher at ByteDance, Seed. I got my Ph.D. degree from Tsinghua University (THU), advised by [Prof. Zhang Zhihai](https://www.ie.tsinghua.edu.cn/info/1051/1059.htm) in 2023. I got a B.E. degree at Shanghai Jiaotong University (SJTU) in 2018, advised by [Prof. Xia Tangbin](https://me.sjtu.edu.cn/teacher_directory1/xiatangbin).
 
-My research interest lies in foundation models for digital humans and AI agents.. Recently, I am super interested in agent tool use and atonomy RL. Discussions and cooperations are welcomed! (Wechat: hulksea)
+My research interest lies in foundation models for digital humans and AI agents. Recently, I am super interested in agent tool use and atonomy RL. Discussions and cooperations are welcomed! (Wechat: hulksea)
 
 🔥 NOTE: Our [team](https://seed.bytedance.com/zh/direction/llm) is looking forward to having elegant researchers join us. Intern and FTE positions are opening. If you are interested in the next generation of intelligent agents, feel free to contact me~
 
