@@ -16,10 +16,12 @@ My research interest lies in foundation models for digital humans and AI agents.
 # News
 - **2025-12-01**: One of the products supported by our technology, [Doubao Phone](https://o.doubao.com/), has been released.
 - **2025-09-22**: We released work on scaling agent environments ([CodeGym](https://github.com/StigLidu/CodeGym)). On Taubench-style evaluation benchmarks, our method achieves leading internal performance.
+
+# Milestones
 - **2025-01-13**: Joined Bytedance Seed LLM.
 - **2023-07-10**: Joined Huawei Noah’s Ark Lab, contributing to the development of the [OptVerse](https://www.huaweicloud.com/product/optverse.html) (with a focus on AI/ML-driven components) and advancing research on large language models for Operations Research ([LLM4OR](https://arxiv.org/abs/2502.09994), [Hierarchical Multi-Step Reward Models](https://arxiv.org/abs/2503.13551), [Tree of Thought Reasoning](https://aclanthology.org/2025.acl-long.40.pdf)).
-- **2023-06-30**: Graduated from Tsinghua University. During this period, my research primarily focused on mathematical optimization modeling, solution algorithms, and intelligent decision-making.
-- **2018-06-30**: Graduated from Shanghai Jiao Tong University.
+- **2023-06-30**: Graduated from Tsinghua University. During this period, my research primarily focused on mathematical optimization modeling, solution algorithms, and intelligent decision-making. I am also grateful to Tsinghua’s Zijing Playground, where I learned the meaning of strengthening the body while cultivating a civilized mind.
+- **2018-06-30**: Graduated from Shanghai Jiao Tong University. During this period, I focused on studying optimization theory while taking extensive coursework in mathematics. I am grateful to SJTU for fostering my analytical thinking skills.
 
 # Selected Award
 - **2023-06-30**: Tsinghua University Outstanding Doctoral Dissertation award
