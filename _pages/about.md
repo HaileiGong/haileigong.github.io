@@ -17,7 +17,7 @@ My research interest lies in foundation models for digital humans and AI agents.
 - **2025-12-30**: Our model engaged in a [debate](https://www.qbitai.com/2026/01/366364.html) with Luo Yonghao, showcasing the power of interactive reinforcement learning.
 - **2025-12**: After undergoing our RL training, the speech–text multimodal model has been fully rolled out on [Doubao’s online platform](https://www.doubao.com/chat/), serving hundreds of millions of Doubao users. You can experience it by making a call through Doubao.
 - **2025-12-01**: One of the products supported by our technology, [Doubao Phone](https://o.doubao.com/), has been released.
-- **2025-09-22**: We released work on scaling agent environments ([CodeGym](https://github.com/StigLidu/CodeGym)). On Taubench-style evaluation benchmarks, our method achieves leading internal performance.
+- **2025-09-22**: We released work on scaling agent environments ([CodeGym (ICLR 2026)](https://github.com/StigLidu/CodeGym)). On Taubench-style evaluation benchmarks, our method achieves leading internal performance.
 
 # Milestones
 - **2025-01-13**: Joined Bytedance Seed LLM.
